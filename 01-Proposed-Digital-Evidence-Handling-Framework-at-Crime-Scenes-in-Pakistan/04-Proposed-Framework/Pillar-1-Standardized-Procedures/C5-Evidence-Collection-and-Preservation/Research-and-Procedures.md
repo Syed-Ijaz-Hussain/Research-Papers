@@ -1966,3 +1966,564 @@ medium.
 Responsible Personnel
 
       Digital Evidence First Responder (DEFR).
+
+   Consider that this method may not be practical when the video files are
+       too large.
+
+2. Acquire Video Files onto External Storage Media
+
+- Acquire the required video files by writing them onto an external storage
+medium.
+
+3. Acquire Video Files Through a Network Connection
+
+      Acquire the required video files through a network connection.
+
+      This method may be available when the CCTV system is equipped with a
+       network port.
+
+4. Use the CCTV System's Export Feature
+
+      Use the CCTV system's export feature to convert video recordings into
+       other file formats, usually MPEG or AVI.
+
+      Understand that exported video is a compressed version of the original
+       footage.
+
+      Use this method only as a last resort because recompression alters the
+       original data and removes image detail.
+
+      Do not rely on recompressed video for examination when the original
+       data exists and is available for analysis.
+
+      Consider that the quality of exported video may not be as good as the
+       original footage.
+
+5. Acquire an Analog Copy
+
+      If it is not possible to directly acquire a digital evidence copy of the files
+       from the recording device, the DEFR or Digital Evidence Specialist (DES)
+       should attempt to acquire an analog copy.
+
+      Use the analog output available on the original recording device.
+
+      Use a suitable analog recording device to create the copy.
+
+Responsible Personnel
+
+      Digital Evidence First Responder (DEFR).
+
+   Digital Evidence Specialist (DES), where applicable for analog
+       acquisition.
+
+Required Documentation
+
+The provided ISO reference does not specify a separate documentation format
+for these acquisition methods.
+
+Expected Output
+
+      Relevant CCTV video recordings acquired using an appropriate method.
+
+      Acquisition method selected according to the available system
+       capabilities.
+
+      Original video data retained where available.
+
+      Limitations of compressed or analog copies considered.
+
+Supporting References
+
+ISO/IEC 27037:2012, Clause 7.3 — CCTV Collection, Acquisition and
+Preservation.
+
+
+
+
+2.3 Verification of Acquired CCTV Evidence
+
+Procedure ID: PI-C5-S30
+
+Purpose
+
+To verify that the correct CCTV video file or required portion has been
+acquired and that the acquired file can be played using appropriate player
+software.
+
+How to Perform It
+
+1. Check the Acquired Video File
+
+      After completing acquisition, check the acquired file.
+
+      Confirm that the correct video file or the required portion of the file has
+       been acquired.
+
+2. Check Video Playback
+
+   Use appropriate player software to check whether the acquired video
+       file can be played on other systems.
+
+      Perform this check for digital device file formats.
+
+3. Consider Proprietary CCTV Formats
+
+      Recognize that most CCTV systems use proprietary formats.
+
+      Understand that acquired video files may not necessarily play using
+       other available player software.
+
+4. Obtain Correct Replay Software
+
+      Identify the correct replay software required for the acquired video
+       files.
+
+      Check whether the CCTV system provides the correct replay software for
+       download at the same time as the video data.
+
+Responsible Personnel
+
+Digital Evidence First Responder (DEFR).
+
+Required Documentation
+
+The provided ISO reference does not specify a separate documentation format
+for verification.
+
+Expected Output
+
+      Correct video file or required portion confirmed.
+
+      Playback of acquired video checked on other systems.
+
+      Compatibility issues with proprietary CCTV formats identified.
+
+      Correct replay software obtained where required.
+
+Supporting References
+
+ISO/IEC 27037:2012, Clause 7.3 — CCTV Collection, Acquisition and
+Preservation.
+
+
+
+2.4 Alternative Acquisition When On-Site Acquisition Is Not Practical
+
+Procedure ID: PI-C5-S32
+
+Purpose
+
+To identify alternative methods for acquiring CCTV digital evidence when
+acquisition cannot practically be conducted at the scene.
+
+How to Perform It
+
+1. Consider Acquisition Outside the Scene
+
+- When on-site acquisition is not practical, the DEFR may decide to collect the
+digital storage media for acquisition.
+
+2. Replace the CCTV Hard Drive
+
+      Consider replacing the CCTV system's hard drive with a blank or cloned
+       hard drive.
+
+      Before using this method, assess the following risks:
+
+          o   Compatibility of the new hard drive with the CCTV system.
+
+          o   Compatibility of the removed hard drive with other systems for
+              examination.
+
+      Consider that some CCTV systems use removable hard drives installed in
+       a caddy, but the drive may require the original system hardware for
+       playback.
+
+3. Consider Forensic Laboratory Acquisition as a Last Resort
+
+      If none of the above methods is possible, consider removing the entire
+       CCTV system from the scene.
+
+      Conduct the acquisition process in a forensic laboratory.
+
+      Consider whether the system can physically be removed, as some CCTV
+       systems are extremely large and complex.
+
+      Before removal, assess the risks relating to legal implications and
+       insurance.
+
+Responsible Personnel
+
+Digital Evidence First Responder (DEFR).
+
+Required Documentation
+
+The provided ISO reference does not specify a separate documentation format
+for these alternative acquisition methods.
+
+Expected Output
+
+      Alternative acquisition approach selected when on-site acquisition is not
+       practical.
+
+      Hard-drive replacement considered, with compatibility risks assessed.
+
+      Original system hardware requirements considered where applicable.
+
+      Forensic laboratory acquisition considered as a last resort.
+
+      Legal and insurance risks assessed before system removal.
+
+Supporting References
+
+ISO/IEC 27037:2012, Clause 7.3 — CCTV Collection, Acquisition and
+Preservation.
+
+
+
+
+Main Activity 5: Evidence Preservation
+
+5.1 Verification and Sealing of Acquired Digital Evidence
+
+Procedure ID: PI-C5-S33
+
+Purpose
+
+To verify the integrity of acquired digital evidence and protect the acquired
+copies against unauthorized alteration.
+
+How to Perform It
+
+   1. After completing acquisition, use an appropriate verification function or
+       digital signature to establish that the acquired digital evidence copy is
+       equivalent to the original.
+
+   2. Use an appropriate verification function to provide evidence that copied
+       files are equivalent to the original files.
+
+   3. Where appropriate, associate the DEFR with the acquired potential
+       digital evidence using:
+
+o   Digital signatures.
+
+          o   Biometrics.
+
+          o   Photography.
+
+   4. Biometrics may also be used as an alternative to verification functions
+       or digital signatures for associating an individual with acquired
+       evidence.
+
+Responsible Personnel
+
+Digital Evidence First Responder (DEFR).
+
+Required Documentation
+
+      Verification function results.
+
+      Digital signature details, where used.
+
+      Biometric or photographic association details, where used.
+
+Expected Output
+
+      Acquired evidence verified against the original.
+
+      Evidence protected using an appropriate verification function or digital
+       signature.
+
+      DEFR association established where appropriate.
+
+Supporting References
+
+ISO/IEC 27037:2012, Clause 7.1.4 — Preservation.
+
+ISO-IEC-27037.pdf
+
+5.2 Preservation of Digital Devices and Acquired Evidence
+
+Procedure ID: PI-C5-S34
+
+Purpose
+
+To ensure that collected digital devices and acquired potential digital evidence
+remain protected throughout their lifetime.
+
+How to Perform It
+
+   1. Ensure that all collected digital devices are appropriately preserved.
+
+2. Recognize that different types of digital devices may require different
+       preservation methods.
+
+   3. Maintain the confidentiality, integrity and availability of potential digital
+       evidence through appropriate security controls.
+
+   4. Address environmental aspects using appropriate measures to protect
+       evidence against spoliation.
+
+   5. Preserve potential digital evidence throughout its lifetime.
+
+   6. Follow the applicable jurisdictional requirements and organizational
+       policies concerning the evidence preservation period.
+
+Responsible Personnel
+
+Digital Evidence First Responder (DEFR).
+
+Required Documentation
+
+Not specifically detailed in Clause 7.1.4.
+
+Expected Output
+
+      Collected digital devices appropriately preserved.
+
+      Confidentiality, integrity and availability maintained.
+
+      Environmental risks addressed.
+
+      Evidence preserved throughout its required lifetime.
+
+Supporting References
+
+ISO/IEC 27037:2012, Clause 7.1.4 — Preservation.
+
+ISO-IEC-27037.pdf
+
+5.3 Preservation of Networked Devices
+
+Procedure ID: PI-C5-S35
+
+Purpose
+
+To ensure that networked devices and their potential digital evidence receive
+appropriate preservation.
+
+How to Perform It
+
+1. Recognize that networked devices require preservation measures
+      similar to computers, peripheral devices and digital storage media.
+
+   2. Apply the relevant preservation guidelines described in Clause 7.1.4.
+
+   3. Select appropriate preservation measures according to the type of
+      networked device and its requirements.
+
+Responsible Personnel
+
+Digital Evidence First Responder (DEFR).
+
+Required Documentation
+
+Not specifically detailed in the provided reference.
+
+Expected Output
+
+Networked devices appropriately preserved according to the preservation
+requirements applicable to their device type.
+
+Supporting References
+
+ISO/IEC 27037:2012, Clause 7.2.2.4 — Guidelines for Networked Device
+Preservation; Clause 7.1.4 — Preservation.
+
+ISO-IEC-27037.pdf
+
+5.4 Suitable Evidence Preservation Environment
+
+Procedure ID: PI-C5-S36
+
+Purpose
+
+To ensure that potential digital evidence is maintained in an environment that
+protects it from physical and environmental damage.
+
+How to Perform It
+
+   1. Store collected or acquired evidence in a secure evidence preservation
+      facility.
+
+   2. Ensure that the facility is not exposed to:
+
+          o   Magnetic fields.
+
+          o   Dust.
+
+          o   Vibration.
+
+o   Moisture.
+
+          o   Extreme temperatures.
+
+          o   Extreme humidity.
+
+   3. Protect the evidence against other environmental elements that may
+      cause damage.
+
+Responsible Personnel
+
+Not specifically specified in the provided reference.
+
+Required Documentation
+
+Not specifically detailed in the provided reference.
+
+Expected Output
+
+A suitable and secure environment for preserving collected and acquired
+digital evidence.
+
+Supporting References
+
+ISO/IEC 27037, Clause 3.10 — Evidence Preservation Facility; Clause 7.1.4 —
+Preservation.
+
+ISO-IEC-27037.pdf
+
+Main Activity 6: Contamination Prevention
+
+6.1 Avoid Direct Examination of Original Digital Evidence
+
+Procedure ID: PI-C5-S37
+
+Purpose
+
+To prevent changes to original digital evidence during forensic investigation
+and examination.
+
+How to Perform It
+
+   1. Do not perform forensic investigations or other examination processes
+      directly on the original evidence or source of evidence.
+
+   2. Recognize that working directly on original evidence may alter its data
+      and affect its evidential value.
+
+3. Create a duplicate bit-stream image or logical image of the suspicious
+       drive or file.
+
+   4. Use the duplicate image to view static data and perform forensic
+       analysis.
+
+   5. Retain the original evidence without using it for routine examination.
+
+Responsible Personnel
+
+Forensic Investigator.
+
+Required Documentation
+
+Not specifically detailed in the DFE reference for this procedure.
+
+Expected Output
+
+      Original evidence protected from direct examination.
+
+      Duplicate image available for forensic investigation.
+
+      Reduced risk of altering original evidence.
+
+Supporting References
+
+DFE Module 04, Page 193 — Rules of Thumb for Data Acquisition.
+
+Digital Forensics Essentials (DFE).pdf
+
+6.2 Use Clean Media and Maintain Separate Forensic Copies
+
+Procedure ID: PI-C5-S38
+
+Purpose
+
+To prevent unwanted changes to original evidence and maintain separate
+copies for forensic examination and reference.
+
+How to Perform It
+
+   1. Use clean media to store copies of original digital evidence.
+
+   2. Produce two or more copies of the original media before starting the
+       investigation.
+
+   3. Maintain the first copy as the working copy for forensic analysis.
+
+   4. Maintain the other copies as library/control copies:
+
+o   Store them for disclosure purposes.
+
+          o   Retain them in case the working copy becomes corrupted.
+
+   5. For drive-to-drive imaging, use blank media to copy into new drives.
+
+Responsible Personnel
+
+Forensic Investigator.
+
+Required Documentation
+
+Not specifically detailed in the DFE reference for this procedure.
+
+Expected Output
+
+      Clean media used for storing forensic copies.
+
+      Separate working copy available for analysis.
+
+      Library/control copy maintained for reference and recovery.
+
+Supporting References
+
+DFE Module 04, Pages 193–194 — Rules of Thumb for Data Acquisition.
+
+Digital Forensics Essentials (DFE).pdf
+
+6.3 Verification of Forensic Copies
+
+Procedure ID: PI-C5-S39
+
+Purpose
+
+To verify that forensic copies have maintained the integrity of the original
+digital evidence.
+
+How to Perform It
+
+   1. After creating copies of the original media, verify their integrity by
+       comparing them with the original media.
+
+   2. Use hash values for comparison.
+
+   3. MD5 is provided in the DFE reference as an example of a hash algorithm
+       for this purpose.
+
+   4. Confirm that the hash values of the original and its corresponding copy
+       match.
+
+5. If the values do not match, the integrity of the copy has not been
+       established and the discrepancy must be investigated.
+
+Responsible Personnel
+
+Forensic Investigator.
+
+Required Documentation
+
+      Original media hash value.
+
+      Forensic copy hash value.
+
+      Hash comparison results.
+
+Expected Output
+
+      Integrity of forensic copies checked against original media.
+
+      Matching hash values provide evidence that the compared data is
+       identical.
+
+Supporting References
+
+DFE Module 04, Page 194 — Rules of Thumb for Data Acquisition.
